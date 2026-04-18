@@ -1,5 +1,5 @@
 # SDE-2 Interview Preparation Guide
-
+[DSA-TRACKER_SHEET](https://docs.google.com/spreadsheets/d/1wpOP1Ux0MFfnxEJ9CDj9D9hFHHk4o0ICyK0NrrP4yWk/edit?gid=2012553345#gid=2012553345)
 End-to-end preparation material for SDE-2 interviews at top product-based companies.
 
 ## Target Profile
